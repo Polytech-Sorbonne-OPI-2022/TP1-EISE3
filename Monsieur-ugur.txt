@@ -1,0 +1,27 @@
+TP de structuration de Rémi Ugur
+
+1)
+2)
+3)
+4)
+5)
+6)
+7
+8)git log -p sert à afficher les fichier que l'on va rendre ainsi que leur contenues 
+9)
+10)
+11)Je vois apparaitre mon arborescence et mes fichiers dans le serveur git.
+12)
+Ex2 
+
+2)Cloner le repertoire peret d'avi le repertoire et son contenue en local sur son pc ou se trouve le main TP1-EISE3 à été créer
+3)Sur la branche main
+Votre branche est à jour avec 'origin/main'.
+
+Fichiers non suivis:
+  (utilisez "git add <fichier>..." pour inclure dans ce qui sera validé)
+	TP1-EISE3/
+
+aucune modification ajoutée à la validation mais des fichiers non suivis sont présents (utilisez "git add" pour les suivre)
+
+
