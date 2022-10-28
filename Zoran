@@ -1,0 +1,14 @@
+2) les repértoires branches , hooks , info , object et refs ont été crée) 
+4) On branch master
+
+Initial commit
+
+nothing to commit (create/copy files and use "git add" to track)
+5) le statut du fichier est maintenant un fichier pret a etre changé
+7)On branch master
+nothing to commit, working directory clean. il n'ya pas de fichier a interragir
+
+
+8) c'est un historique qui montre ce qu'on a effectué avec les fichier crée et les messages qu'on a écrit
+
+9) il montre les changements effectué sur le fichier
