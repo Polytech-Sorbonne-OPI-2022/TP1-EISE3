@@ -12,3 +12,5 @@ nothing to commit, working directory clean. il n'ya pas de fichier a interragir
 8) c'est un historique qui montre ce qu'on a effectué avec les fichier crée et les messages qu'on a écrit
 
 9) il montre les changements effectué sur le fichier
+
+test
