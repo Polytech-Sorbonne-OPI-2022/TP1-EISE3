@@ -1,4 +1,4 @@
-2) les repértoires branches , hooks , info , object et refs ont été crée) 
+ouiii2) les repértoires branches , hooks , info , object et refs ont été crée) 
 4) On branch master
 
 Initial commit
