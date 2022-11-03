@@ -1,16 +1,24 @@
-ouiii2) les repértoires branches , hooks , info , object et refs ont été crée) 
+2) les repértoires branches , hooks , info , object et refs ont été crée) 
 4) On branch master
 
 Initial commit
-
 nothing to commit (create/copy files and use "git add" to track)
+
 5) le statut du fichier est maintenant un fichier pret a etre changé
 7)On branch master
 nothing to commit, working directory clean. il n'ya pas de fichier a interragir
 
-
 8) c'est un historique qui montre ce qu'on a effectué avec les fichier crée et les messages qu'on a écrit
 
 9) il montre les changements effectué sur le fichier
+11) On voit notre fichier qui a été push sur notre repértoire
 
-test
+Ex2
+
+2) le repertoire tp1-EISE3 a été crée
+3) elle retourne que le fichier tp1-eise3 doit etre valider et donc qu'il n'est pas suivis
+4) le fichier a été envoyé sur le serveur 
+8) cela me marque everything is up to date car je n'ai pas modifié mes fichiers
+11) Les deux fichiers ont été modifiés
+
+13) On peut voir tout les actions qui ont été effectués sur le répertoires de la classe
