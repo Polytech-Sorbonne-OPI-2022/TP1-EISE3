@@ -490,7 +490,7 @@ EX2
 
 Q2)le répertoire TP1-EX2 à été créé
 
-Q
+Q4) le fichier à été ajouter au repositorie
 
 
 
