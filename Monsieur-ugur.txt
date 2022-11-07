@@ -22,6 +22,8 @@ Fichiers non suivis:
 	TP1-EISE3/
 
 aucune modification ajoutée à la validation mais des fichiers non suivis sont présents (utilisez "git add" pour les suivre)
+11)le fichier à été modifier sur le serveur
+12)je n'ai pas eu de conflit
 
 Ex 3
 1) &
