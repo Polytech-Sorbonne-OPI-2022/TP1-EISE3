@@ -13,8 +13,7 @@ TP de structuration de Rémi Ugur
 11)Je vois apparaitre mon arborescence et mes fichiers dans le serveur git.
 12)
 Ex2 
-
-2)Cloner le repertoire peret d'avi le repertoire et son contenue en local sur son pc ou se trouve le main TP1-EISE3 à été créer
+2)le fichier sur le git à été cloner /copier sur mon ordinateurs cela permet d'avoir le repertoire et son contenue en local sur son pc ou se trouve le main TP1-EISE3 à été créer
 3)Sur la branche main
 Votre branche est à jour avec 'origin/main'.
 
