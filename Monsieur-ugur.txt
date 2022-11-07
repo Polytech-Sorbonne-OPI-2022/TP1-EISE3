@@ -24,4 +24,13 @@ Fichiers non suivis:
 
 aucune modification ajoutée à la validation mais des fichiers non suivis sont présents (utilisez "git add" pour les suivre)
 
-
+Ex 3
+1) &
+2)/root
+3) (sans rien) cd
+4)ls * affiche tout les répertoires et les sous dossiers
+5)ls - affiche la même chose
+6)Ajouter le chemin du répertoire qui contient a.out dans la variable PATH.
+7)l'éxecution du fichier
+8)command >/dev/null 2>&1
+9)ps -ef |
